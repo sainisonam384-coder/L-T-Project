@@ -14,7 +14,7 @@
 
 ## 📌 About The Project
 
-Welcome to **L-T-Project**! This repository serves as the central hub for our team's project codebase, documentation, and shared resources.
+Welcome to **L&T Project**! This repository serves as the central hub for our team's project codebase, documentation, and shared resources.
 
 ### Key Features
 - ⚡ Fast & Modular Structure
@@ -34,7 +34,7 @@ Welcome to **L-T-Project**! This repository serves as the central hub for our te
 ## 📁 Repository Structure
 
 ```text
-L-T-Project/
+L&T Project/
 ├── src/                 # Main source files
 ├── docs/                # Project documentation
 ├── assets/              # Images, screenshots, and visual assets
@@ -56,12 +56,12 @@ Make sure you have [Git](https://git-scm.com/) installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sainisonam384-coder/L-T-Project.git
+   git clone https://github.com/sainisonam384-coder/L&T Project.git
    ```
 
 2. **Navigate into the project directory:**
    ```bash
-   cd L-T-Project
+   cd L&T Project
    ```
 
 3. **Check current branch:**
@@ -90,5 +90,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the L-T-Project Team</sub>
+  <sub>Built with ❤️ by the L&T Project Team</sub>
 </div>
