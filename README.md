@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 L-T-Project
+# 🚀 L&T Project
 
 *A modern, collaborative repository for team development.*
 
